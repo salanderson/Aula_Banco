@@ -1,0 +1,8 @@
+C:\Users\AndersonSaldanha\Desktop\Estudo_C#_2022\Banco\bin\Debug\Banco.exe.config
+C:\Users\AndersonSaldanha\Desktop\Estudo_C#_2022\Banco\bin\Debug\Banco.exe
+C:\Users\AndersonSaldanha\Desktop\Estudo_C#_2022\Banco\bin\Debug\Banco.pdb
+C:\Users\AndersonSaldanha\Desktop\Estudo_C#_2022\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\AndersonSaldanha\Desktop\Estudo_C#_2022\Banco\obj\Debug\Banco.csproj.SuggestedBindingRedirects.cache
+C:\Users\AndersonSaldanha\Desktop\Estudo_C#_2022\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\AndersonSaldanha\Desktop\Estudo_C#_2022\Banco\obj\Debug\Banco.exe
+C:\Users\AndersonSaldanha\Desktop\Estudo_C#_2022\Banco\obj\Debug\Banco.pdb
